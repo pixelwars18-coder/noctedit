@@ -1,0 +1,14 @@
+{
+  "mode": "{{mode}}",
+  "mPrimary": "{{colors.primary.default.hex}}",
+  "mOnPrimary": "{{colors.on_primary.default.hex}}",
+  "mSecondary": "{{colors.secondary.default.hex}}",
+  "mTertiary": "{{colors.tertiary.default.hex}}",
+  "mError": "{{colors.error.default.hex}}",
+  "mSurface": "{{colors.surface.default.hex}}",
+  "mSurfaceContainer": "{{colors.surface_container.default.hex}}",
+  "mSurfaceVariant": "{{colors.surface_variant.default.hex}}",
+  "mOnSurface": "{{colors.on_surface.default.hex}}",
+  "mOnSurfaceVariant": "{{colors.on_surface_variant.default.hex}}",
+  "mOutline": "{{colors.outline.default.hex}}"
+}

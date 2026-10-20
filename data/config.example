@@ -1,0 +1,27 @@
+# ~/.config/noctedit/config — all keys optional
+font = monospace            # any fontconfig pattern, e.g. "JetBrains Mono:weight=medium"
+font_size = 15              # px at 1x scale (15 gives Noto Sans Mono an exact 9 px cell)
+ui_font = sans-serif:weight=medium
+ui_font_size = 14
+tab_width = 4
+use_spaces = true           # files with existing indentation are auto-detected
+word_wrap = false
+line_numbers = true
+highlight_line = true
+cursor_blink = true         # blinking stops after 10s idle so the editor goes fully quiet
+auto_indent = true
+show_whitespace = false
+radius = 12                 # corner radius, match Noctalia's
+spellcheck = true           # prose, Markdown and code comments
+spell_language = en_US      # default: from $LANG
+pdf_line_numbers = true
+document_view = auto         # auto (prose files + new files), always, never
+document_font = sans-serif   # e.g. "Liberation Serif" for a classic Writer look
+document_font_size = 16
+page_width = 760             # width of the text column in document view (px at 1x)
+animations = true
+animation_speed = 1.0         # >1 faster, <1 slower
+smooth_caret = true
+restore_session = true
+auto_close = true             # brackets and quotes
+indent_guides = true

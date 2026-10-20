@@ -1,0 +1,4 @@
+# Feeds noctedit the live Noctalia palette (it watches the output file and recolors instantly).
+[theme.templates.user.noctedit]
+input_path = "$XDG_CONFIG_HOME/noctalia/templates/noctedit-colors.json"
+output_path = "$XDG_STATE_HOME/noctedit/theme.json"
